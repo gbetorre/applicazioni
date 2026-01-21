@@ -417,6 +417,28 @@ footer
     }
 /* end footer */
 
+/* -------------------- Custom (added) Classes ----------------------- */
+
+#archive
+    {
+    background: url('../images/archive-bg.jpg') no-repeat;
+    background-size: cover;
+    color: #fff;
+    margin-top: 70px;
+    text-align: center;
+    width: 100%;
+    }
+
+#cold .btn
+    {
+        border-radius: 0px;
+        font-weight: bold;
+        margin-top: 20px;
+        padding: 10px 40px 10px 40px;
+    }
+
+/* ------------------------- Media Classes ---------------------------- */
+
 @media screen and ( max-width: 991px ) {
     .templatemo-box {
         margin-bottom: 30px;
