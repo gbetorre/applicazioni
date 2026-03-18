@@ -429,9 +429,10 @@ footer
     width: 100%;
     }
 
-#cold .btn
+#cold .btn,
+#roldev .btn
     {
-        border-radius: 0px;
+        border-radius: 0;
         font-weight: bold;
         margin-top: 20px;
         padding: 10px 40px 10px 40px;
